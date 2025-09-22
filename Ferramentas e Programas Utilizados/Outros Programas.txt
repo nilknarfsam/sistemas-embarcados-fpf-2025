@@ -1,0 +1,23 @@
+Aqui você encontra as ferramentas utilizadas em sala de aula.
+
+WOKWi: https://wokwi.com/
+
+TINKERCAD: https://www.tinkercad.com/
+
+VS CODE: https://code.visualstudio.com/
+
+PLATFORMIO: https://platformio.org/
+
+FRITIZING: https://fritzing.org/
+
+MQTTX: https://mqttx.app/
+
+HERCULES: https://www.hw-group.com/software/hercules-setup-utility
+
+BLUETOOTH TERMINAL: https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=pt_BR
+
+ScannerBLE(Conectar&Notificar): https://play.google.com/store/apps/details?id=com.macdom.ble.blescanner&hl=pt_BR
+
+Insomnia: https://insomnia.rest/download
+
+Mosquitto Broker: https://mosquitto.org/
